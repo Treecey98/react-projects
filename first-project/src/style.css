@@ -43,6 +43,11 @@ img{
 main {
   padding: 57px 27px;
   color: white;
+  background-image: url("src/images/logo.png");
+  background-size: 300px;
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: center;
 }
 
 .main--title {
